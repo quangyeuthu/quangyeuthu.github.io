@@ -1,3 +1,8 @@
+@media screen and (max-width: 678px) {
+  #text_count {
+    top: -71%!important;
+  }
+}
 body {
 	background: #fab4fa;
 }
